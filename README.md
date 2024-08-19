@@ -1,6 +1,6 @@
 ## UFSCAR - Machine Learning in Production - EML4 - Códigos das Aulas
 
-Códigos desenvolvidos durante a aula de EML4, desse modo segue algumas referências:
+Códigos desenvolvidos durante as aulas de EML4, desse modo segue algumas referências:
 - AWS:
   - https://github.com/gpgomes/ml-mba-activity
 - LocalStack:
