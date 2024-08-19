@@ -1,0 +1,19 @@
+services:
+    jupyter:
+        build: .
+        ports:
+        - 8888:8888
+        - 4040:4040
+        volumes:
+        - ./notebooks:/notebooks
+        - ./model:/model
+        - ./data:/data
+
+# # Down the services
+# docker-compose down
+
+# # Rebuild images without cache
+# docker-compose build --no-cache
+
+# # Start or restart the services
+# docker-compose up

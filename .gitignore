@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*/data/*
+*/model/*
+big_data/serving-batch/spark/notebooks/metastore_db/
+*.log
+*.csv
+*.dat
+*.data
